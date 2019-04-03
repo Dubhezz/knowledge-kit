@@ -33,7 +33,7 @@
   * [28、CAShapeLayer](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.28.md)
   * [29、仿微博动画](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.29.md)
   * [30、UILabel 全局匹配并高亮](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.30.md)
-  * [31、JavascriptCore](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.31.md）
+  * [31、JavascriptCore](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.31.md)
   * [32、Xcode 小技巧](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.32.md)
   * [33、终端效率](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.33.md)
   * [34、终极截屏](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.34.md)

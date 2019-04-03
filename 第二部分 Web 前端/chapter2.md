@@ -15,8 +15,7 @@
   * [11、H5页面保存页面为图片](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.11.md)
   * [12、Promise](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.12.md)
   * [13、webpack-dev-server 的配置和使用](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.13.md)
-  * [14、Web 与 H5 交互的坑](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.14
-* .md)
+  * [14、Web 与 H5 交互的坑](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.14.md)
   * [15、前端持久化](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.15.md)
   * [16、VS-Code](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.16.md)
   * [17、Vue tips](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.17.md)
