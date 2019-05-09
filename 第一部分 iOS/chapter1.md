@@ -61,5 +61,8 @@
   * [56、Xcode 设置作者信息](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.56.md)
   * [57、无痕埋点的设计与实现](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.57.md)
   * [58、大前端时代的安全性](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.58.md)
+  * [59、自动布局的思考](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.59.md)
+  * [60、Swift每个版本迁移的总结](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.60.md)
+  * [61、iOS零散知识](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.61.md)
 
 
