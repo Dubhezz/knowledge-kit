@@ -88,6 +88,7 @@ function oclintForProject () {
         echo -e $COLOR_ERR'😢分析失败😢'$COLOR_ERR
         return -1
     fi
+
     echo -e $COLOR_AW'将为大爷自动打开 lint 的分析结果'$COLOR_AW
     # 用 safari 浏览器打开 oclint 的结果
     open -a "/Applications/Safari.app" oclintReport.html
