@@ -32,4 +32,6 @@
   * [28、神器Puppeteer](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.28.md)
   * [29、从Vue.js谈谈前端开发的技术栈演变](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.29.md)
   * [30、Javascript 常用工具封装](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.30.md)
+  * [31、浏览器布局与DOM绘制](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.31.md)
+  * [32、React核心技术剖析](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.32.md)
 

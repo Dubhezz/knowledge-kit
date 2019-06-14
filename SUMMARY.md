@@ -54,7 +54,7 @@
   * [49、OC类别（Catrgory）和拓展（Extension）](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.49.md)
   * [50、MVC、MVP、MVVM](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.50.md)
   * [51、“静态库”和“动态库”](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.51.md)
-  * [52、cocopod](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.52.md)
+  * [52.57](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.52.md)
   * [53、如何打造团队的代码风格统一以及开发效率的提升](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.53.md)
   * [54、iOS 数据持久化](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.54.md)
   * [55、Xcode 设置作者信息](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.55.md)
@@ -67,6 +67,11 @@
   * [62、App启动时间优化](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.62.md)
   * [63、OCLint实现Code Review](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.63.md)
   * [64、苹果官方开源资料](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.64.md)
+  * [65、组件化、模块化、插件、子应用、框架、库理解](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.65.md)
+  * [66、多端融合方案](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.66.md)
+  * [67、移动端网络层优化](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.67.md)
+
+
 * [第二部分 Web前端](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/chapter2.md)
   * [1、-last-child与-last-of-type你只是会用，有研究过区别吗？](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.1.md)
   * [2、正则表达式](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.2.md)
@@ -98,15 +103,27 @@
   * [28、神器Puppeteer](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.28.md)
   * [29、从Vue.js谈谈前端开发的技术栈演变](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.29.md)
   * [30、Javascript 常用工具封装](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.30.md)
+  * [31、浏览器布局与DOM绘制](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.31.md)
+  * [32、React核心技术剖析](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.32.md)
+
+
+
 * [第三部分 后端技术](https://github.com/FantasticLBP/knowledge-kit/blob/master/第三部分%20后端技术/chapter3.md)
   * [1、利用分页和模糊查询技术实现一个App接口](https://github.com/FantasticLBP/knowledge-kit/blob/master/第三部分%20后端技术/3.1.md)
   * [2、网页端扫码登录实现原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/第三部分%20后端技术/3.2.md)
   * [3、从Node.js看看服务端框架的感想](https://github.com/FantasticLBP/knowledge-kit/blob/master/第三部分%20后端技术/3.3.md)
+  * [4、免费的配置HTTPS证书](https://github.com/FantasticLBP/knowledge-kit/blob/master/第三部分%20后端技术/3.4.md)
+
+
 * [第四部分 数据库](https://github.com/FantasticLBP/knowledge-kit/blob/master/第四部分%20数据库/chapter4.md)
   * [1、Mysql JSON 类型的字段](https://github.com/FantasticLBP/knowledge-kit/blob/master/第四部分%20数据库/4.1.md)
+
+
 * [第五部分 计算机网络](https://github.com/FantasticLBP/knowledge-kit/blob/master/第五部分%20开发杂谈/chapter5.md)
   * [1、HTTP请求头Range](https://github.com/FantasticLBP/knowledge-kit/blob/master/第五部分%20开发杂谈/5.1.md)
-* [第六部分 开发杂谈](https://github.com/FantasticLBP/knowledge-kit/blob/master/第六部分%20开发杂谈/chapter5.md)
+  * [2、认识HTTP、TCP、UDP](https://github.com/FantasticLBP/knowledge-kit/blob/master/第五部分%20开发杂谈/5.2.md)
+
+* [第六部分 开发杂谈](https://github.com/FantasticLBP/knowledge-kit/blob/master/第六部分%20开发杂谈/chapter6.md)
   * [1、开始hexo博客之旅](https://github.com/FantasticLBP/knowledge-kit/blob/master/第六部分%20开发杂谈/6.1.md)
   * [2、命令行文件查找](https://github.com/FantasticLBP/knowledge-kit/blob/master/第六部分%20开发杂谈/6.2.md)
   * [3、Charles 从入门到精通](https://github.com/FantasticLBP/knowledge-kit/blob/master/第六部分%20开发杂谈/6.3.md)
@@ -121,3 +138,7 @@
   * [12、OKR](https://github.com/FantasticLBP/knowledge-kit/blob/master/第六部分%20开发杂谈/6.13.md)
   * [13、面试技巧](https://github.com/FantasticLBP/knowledge-kit/blob/master/第六部分%20开发杂谈/6.14.md)
   * [14、Markdown的妙用](https://github.com/FantasticLBP/knowledge-kit/blob/master/第六部分%20开发杂谈/6.15.md)
+
+
+* [第七部分 设计模式](https://github.com/FantasticLBP/knowledge-kit/blob/master/第七部分%20设计模式/chapter7.md)
+  * [1、声明式与命令式](https://github.com/FantasticLBP/knowledge-kit/blob/master/第七部分%20设计模式/7.1.md)
