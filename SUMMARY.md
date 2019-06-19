@@ -54,7 +54,7 @@
   * [49、OC类别（Catrgory）和拓展（Extension）](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.49.md)
   * [50、MVC、MVP、MVVM](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.50.md)
   * [51、“静态库”和“动态库”](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.51.md)
-  * [52.57](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.52.md)
+  * [52、cocopod](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.52.md)
   * [53、如何打造团队的代码风格统一以及开发效率的提升](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.53.md)
   * [54、iOS 数据持久化](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.54.md)
   * [55、Xcode 设置作者信息](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.55.md)
@@ -70,6 +70,7 @@
   * [65、组件化、模块化、插件、子应用、框架、库理解](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.65.md)
   * [66、多端融合方案](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.66.md)
   * [67、移动端网络层优化](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.67.md)
+  * [68、iOS工程编译速度优化](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.68.md)
 
 
 * [第二部分 Web前端](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/chapter2.md)
@@ -105,7 +106,7 @@
   * [30、Javascript 常用工具封装](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.30.md)
   * [31、浏览器布局与DOM绘制](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.31.md)
   * [32、React核心技术剖析](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.32.md)
-
+  * [33、ES6学习总结](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.33.md)
 
 
 * [第三部分 后端技术](https://github.com/FantasticLBP/knowledge-kit/blob/master/第三部分%20后端技术/chapter3.md)
