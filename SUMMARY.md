@@ -71,6 +71,8 @@
   * [66、多端融合方案](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.66.md)
   * [67、移动端网络层优化](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.67.md)
   * [68、iOS工程编译速度优化](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.68.md)
+  * [69、守护你的App安全](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.69.md)
+  * [70、React-Native总结](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.70.md)
 
 
 * [第二部分 Web前端](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/chapter2.md)
@@ -107,6 +109,7 @@
   * [31、浏览器布局与DOM绘制](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.31.md)
   * [32、React核心技术剖析](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.32.md)
   * [33、ES6学习总结](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.33.md)
+  * [34、富文本编辑器的原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.34.md)
 
 
 * [第三部分 后端技术](https://github.com/FantasticLBP/knowledge-kit/blob/master/第三部分%20后端技术/chapter3.md)
