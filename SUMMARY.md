@@ -8,7 +8,7 @@
   * [3、控制器加载的玄机](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.3.md)
   * [4、如何优雅地调试手机网页？](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.4.md)
   * [5、事件响应者链](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.5.md)
-  * [6、外卖App双列表联动](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.6.md)
+  * [6、外卖App双列表联动](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.6.md
   * [7、在内存剖析对象](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.7.md)
   * [8、长按UIWebView上的图片保存到相册](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.8.md)
   * [9、hitTest和pointInside方法你真的熟吗？](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.9.md)
@@ -73,6 +73,8 @@
   * [68、iOS工程编译速度优化](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.68.md)
   * [69、守护你的App安全](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.69.md)
   * [70、React-Native总结](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.70.md)
+  * [71、不一样的动态化能力](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.71.md)
+  * [72、Flutter初体验-安装](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.72.md)
 
 
 * [第二部分 Web前端](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/chapter2.md)
