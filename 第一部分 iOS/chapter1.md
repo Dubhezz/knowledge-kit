@@ -74,4 +74,6 @@
   * [69、守护你的App安全](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.69.md)
   * [70、React-Native总结](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.70.md)
   * [71、不一样的动态化能力](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.71.md)
-  * [72、Flutter初体验-安装](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.72.md)
+  * [72.Flutter初体验-安装](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.72.md)
+  * [73.架构设计心得](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.73.md)
+  * [74.Ruby学习](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.74.md)
