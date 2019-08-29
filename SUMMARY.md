@@ -74,11 +74,12 @@
   * [69、守护你的App安全](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.69.md)
   * [70、React-Native总结](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.70.md)
   * [71、不一样的动态化能力](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.71.md)
-  * [72.Flutter初体验-安装](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.72.md)
-  * [73.架构设计心得](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.73.md)
-  * [74.Ruby学习](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.74.md)
-  * [75.APM](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.75.md)  
-
+  * [72、Flutter初体验-安装](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.72.md)
+  * [73、架构设计心得](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.73.md)
+  * [74、Ruby学习](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.74.md)
+  * [75、APM](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.75.md)  
+  * [76、测试](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.76.md)
+  
 * [第二部分 Web前端](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/chapter2.md)
   * [1、-last-child与-last-of-type你只是会用，有研究过区别吗？](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.1.md)
   * [2、正则表达式](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.2.md)
