@@ -15,3 +15,5 @@
   * [11、Mac 成吨提升效率的技巧](https://github.com/FantasticLBP/knowledge-kit/blob/master/第六部分%20开发杂谈/6.11.md)
   * [12、OKR](https://github.com/FantasticLBP/knowledge-kit/blob/master/第六部分%20开发杂谈/6.13.md)
   * [13、面试技巧](https://github.com/FantasticLBP/knowledge-kit/blob/master/第六部分%20开发杂谈/6.14.md)
+  * [14、Markdown的妙用](https://github.com/FantasticLBP/knowledge-kit/blob/master/第六部分%20开发杂谈/6.15.md)
+  * [15、1995年的资深工程师，和你谈谈如何进阶](https://github.com/FantasticLBP/knowledge-kit/blob/master/第六部分%20开发杂谈/6.16.md)
