@@ -4,4 +4,5 @@
 
   * [1、HTTP请求头Range](https://github.com/FantasticLBP/knowledge-kit/blob/master/第五部分%20开发杂谈/5.1.md)
   * [2、认识HTTP、TCP、UDP](https://github.com/FantasticLBP/knowledge-kit/blob/master/第五部分%20开发杂谈/5.2.md)
+  * [3、你知道字节序吗？](https://github.com/FantasticLBP/knowledge-kit/blob/master/第五部分%20开发杂谈/5.3.md)
   
