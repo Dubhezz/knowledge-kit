@@ -58,7 +58,7 @@
   * [53、如何打造团队的代码风格统一以及开发效率的提升](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.53.md)
   * [54、iOS 数据持久化](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.54.md)
   * [55、Xcode 设置作者信息](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.55.md)
-  * [56、无痕埋点的设计与实现](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.56.md)
+  * [56、史上最强、最详细无痕埋点方案](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.56.md)
   * [57、大前端时代的安全性](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.57.md)
   * [58、自动布局的思考](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.58.md)
   * [59、Swift每个版本迁移的总结](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.59.md)
@@ -131,6 +131,8 @@
 * [第五部分 计算机网络](https://github.com/FantasticLBP/knowledge-kit/blob/master/第五部分%20开发杂谈/chapter5.md)
   * [1、HTTP请求头Range](https://github.com/FantasticLBP/knowledge-kit/blob/master/第五部分%20开发杂谈/5.1.md)
   * [2、认识HTTP、TCP、UDP](https://github.com/FantasticLBP/knowledge-kit/blob/master/第五部分%20开发杂谈/5.2.md)
+  * [3、你知道字节序吗？](https://github.com/FantasticLBP/knowledge-kit/blob/master/第五部分%20开发杂谈/5.3.md)
+  
 
 * [第六部分 开发杂谈](https://github.com/FantasticLBP/knowledge-kit/blob/master/第六部分%20开发杂谈/chapter6.md)
   * [1、开始hexo博客之旅](https://github.com/FantasticLBP/knowledge-kit/blob/master/第六部分%20开发杂谈/6.1.md)
