@@ -1,0 +1,288 @@
+# Mac 终端效率神技
+
+## 一、 增强各种预览的插件
+
+- 预览查看图片分辨率&大小
+- 代码语法高亮
+- 快速预览zip压缩包内容
+- 快速预览markdown格式内容
+
+```powershell
+brew cask install qlcolorcode betterzipql qlimagesize qlmarkdown
+```
+
+## 二、 iTerm2
+
+具体的配置网上一大堆。贴一个本人亲身操刀操作过的[教程](https://www.jianshu.com/p/7de00c73a2bb)
+
+程序员经常与终端操作打交道，所以很多命令便是做成了命令行模式，在自带的 Terminal 命令都保存在 `.bash_profile` 文件中，使用了 iterm2，命令都保存在 `.zshrc` 中。
+
+所以我们将很多命令保存且编辑
+```Shell
+cd ~
+vim .zshrc 
+
+# 输入自己常用的命令
+# 文件相关
+alias co='code ./'
+alias fo='open ./'
+alias o='open *.xcodeproj'
+alias po='open *.xcworkspace'
+
+# cocoapods
+alias pru='pod repo update'
+alias pi='pod install'
+alias pu='pod update'
+alias piu='pod install --repo-update'
+alias repoanalysis='specbackwarddependency /Users/liubinpeng/.cocoapods/repos/51xianqu-xq_specs'
+alias plint='pod spec lint --sources="git@gitlab.51xianqu.com:xq_ios/xq_specs.git"'
+
+# Git
+alias gck='git checkout'
+alias gm='git merge'
+alias gb='git branch'
+alias gbr='git branch -a'
+alias gs='git status'
+alias gc='git clone'
+alias gl='git log'
+alias ga='git add .'
+alias gpull='git pull'
+alias gpush='git push'
+alias gcm='git commit -m'
+alias glocalbranchPush='git push --set-upstream origin '
+alias glg="git log --graph --pretty=format:'%Cred%h%Crest -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative"
+
+alias ns='npm start'
+alias ni='npm install'
+alias nb='npm run build'
+alias nig='npm install -g '
+
+# 浏览器打开
+
+alias OpenWithChrome='open -a "/Applications/Safari.app" '
+alias OpenWithSafari='open -a "/Applications/Google Chrome.app" '
+
+# 用 Typora 打开 markdown 文件预览写作效果。
+alias OpenMDPreview='open -a "/Applications/Typora.app" '
+
+
+OCLINT_HOME=/Users/liubinpeng/Documents/oclint/build/oclint-release
+export PATH=/Users/liubinpeng/Workspace/Native/iOS/sdgcli/bin:$PATH
+export PATH=/Users/liubinpeng/Workspace/Native/iOS/sdg_frontend_gitflowcli/bin:$PATH
+export PATH=$OCLINT_HOME/bin:$PATH
+
+#Flutter 镜像
+
+export PUB_HOSTED_URL=https://pub.flutter-io.cn  
+export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn
+export PATH=/Users/liubinpeng/flutter/bin:$PATH
+
+# Android Studio SDK 路径
+export ANDROID_HOME=~/Library/Android/sdk
+export PATH=${PATH}:${ANDROID_HOME}/emulator
+export PATH=${PATH}:${ANDROID_HOME}/tools
+export PATH=${PATH}:${ANDROID_HOME}/platform-tools
+
+
+cd ~
+source .zshrc
+```
+
+验证：在你的 git 项目所在的目录的终端下输入 `glg`
+![Git日志](https://raw.githubusercontent.com/FantasticLBP/knowledge-kit/master/assets/2019-08-13-GitLogs.png)
+
+
+## 三、 输出文件目录结构
+
+```powershell
+brew install tree
+```
+
+用法：
+
+1. 我们可以在目录遍历时使用 -L 参数指定遍历层级
+
+   ```powershell
+   tree -L 2
+   ```
+
+2. 如果你想把一个目录的结构树导出到文件 Readme.md ,可以这样操作
+
+   ```powershell
+   tree -L 2 >README.md //然后我们看下当前目录下的 README.md 文件
+   ```
+
+3. 只显示文件夹
+
+   ```powershell
+   tree -d 
+   ```
+
+4. 显示项目的层级，n表示层级数。例：显示项目三层结构，tree -l 3
+
+   ```powershell
+   tree -L n 
+   ```
+
+5. tree -I pattern 用于过滤不想要显示的文件或者文件夹。比如要过滤项目中的node_modules文件夹
+
+   ```powershell
+   tree -I “node_modules”
+   ```
+
+
+## 四、为你的终端添加常用快捷键
+
+我们经常在终端做着一些纯指令的事情，天天敲、月月敲这个时间的很浪费的，一天节约5分钟，一年节约365*5/60 = 30H。一算吓一跳。我们每年在一些终端的指令上浪费了这么多时间。今天记录下如何给自己的 Mac 终端添加快捷键。
+下面进入命令行
+
+```
+cd ~
+touch .bash_profile
+vim .bash_profile 
+
+# finder 相关指令
+alias co='code ./'
+alias fo='open ./'
+
+# pod 和 xcode 工程相关指令
+alias o='open *.xcodeproj'
+alias po='open *.xcworkspace'
+alias pru='pod repo update'
+alias pi='pod install'
+alias pu='pod update'
+alias piu='pod install --repo-update'
+alias repoanalysis='specbackwarddependency /Users/liubinpeng/.cocoapods/repos/51xianqu-xq_specs'
+alias plint='pod spec lint --sources="git@gitlab.51xianqu.com:xq_ios/xq_specs.git"'
+
+# git 相关指令
+alias gck='git checkout'
+alias gm='git merge'
+alias gb='git branch'
+alias gbr='git branch -a'
+alias gs='git status'
+alias gc='git clone'
+alias gl='git log'
+alias ga='git add .'
+alias gpull='git pull'
+alias gpush='git push'
+alias gcm='git commit -m'
+alias glocalbranchPush='git push --set-upstream origin '
+
+# npm 相关指令
+alias ns='npm start'
+alias ni='npm install'
+alias nb='npm run build'
+alias nig='npm install -g '
+
+# Vue 相关命令
+alias vc='vue-init webpack' # (vue-init webpack test1)用法 vc test1
+
+# React 
+alias rc='create-react-app' #(create-react-app todolist)用法 rc todolist
+
+# React Native 命令
+alias rnc='react-native init' #(react-native init todolist)用法 rnc todolist
+alias rnrios='react-native run-ios' 
+
+# 浏览器打开
+alias OpenWithSafari='open -a "/Applications/Safari.app" '
+alias OpenWithChrome='open -a "/Applications/Google Chrome.app" '
+
+# 代理相关
+function proxy_on() {
+    export no_proxy="localhost,127.0.0.1,localaddress,.localdomain.com"
+    export http_proxy="http://127.0.0.1:8118"
+    export https_proxy=$http_proxy
+    echo -e "已开启代理"
+}
+
+function proxy_off() {
+    unset http_proxy
+    unset https_proxy
+    echo -e "已关闭代理"
+}
+
+//
+cd ~
+source .bash_profile 
+
+//验证
+o
+```
+
+如果是 zsh 的话，可以编辑 .zshrc 文件里面的内容。
+
+## 五、浏览器相关
+
+1. 搜索
+
+在指定的站点下搜索 `inurl: jobbole.com intitle:Hybrid`
+
+## 六、 百度云盘破解
+
+1. 会员体验一般为60秒，通过本代码可以一直以会员的速度下载。
+
+```
+git clone https://github.com/CodeTips/BaiduNetdiskPlugin-macOS.git && ./BaiduNetdiskPlugin-macOS/Other/Install.sh
+```
+
+2. 百度网盘全速下载
+
+- 先将你需要下载的地址复制进浏览器
+- 然后在域名 baidu 后面拼接 wp
+- 回车。访问页面，选择下载地址1即可全速下载。
+
+```
+// 之前
+https://pan.baidu.com/s/1ubcQH34m69hIjYu3CD2S2g
+// 之后
+https://pan.baiduwp.com/s/1ubcQH34m69hIjYu3CD2S2g
+```
+
+## 六、 「安全与隐私」中系统不显示「任何来源」
+
+在终端执行下面的命令
+```
+sudo spctl --master-disable
+```
+
+## 七、 系统错误信息的集中展示
+
+```Shell
+pod spec lint *** 2>&1|tee 1.log
+```
+
+经常在终端做操作，有个情况就是在 iOS 的组件库维护的时候去检测合法性。你会发现满屏幕都是信息，甚至好几页，但是事实上错了问题后我们去翻页的时候发现很不方便定位问题，所以想到的就是将该过程产生的任何输出，集中打印到一个地方去查看。代码如上。
+
+几个概念：
+- 0 stdin，1 stdout，2 stderr
+- |:管道。管道的作用是提供一个通道，将上一个程序的标准输出重定向到下一个程序作为下一个程序的标准输入。
+- tee：从标准输入中读取，并将内容写到标准输出以及文件中。
+
+
+## 八、 终端查找文件
+
+1. 终端查找以‘.log’结尾的文件
+
+```Shell
+find . -name '*.log'
+```
+
+2. 安装 **ack** 包.
+```shell
+brew install ack
+```
+
+使用起来很简单,比如 `ack + 你要查找的关键词`,它可以将查到的结果展示在下面,有完整的文件路径.
+
+![效果图](https://github.com/FantasticLBP/knowledge-kit/raw/master/assets/2019-09-30-searchTools.png)
+
+
+### 终端每次执行 brew install 都会更新，非常耗时，如何禁止更新。
+```shell
+export HOMEBREW_NO_AUTO_UPDATE=true
+```
+ 
+
+持续更新中...
