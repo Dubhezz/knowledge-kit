@@ -78,7 +78,8 @@
   * [73、架构设计心得](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.73.md)
   * [74、Ruby学习](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.74.md)
   * [75、APM](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.75.md)  
-  * [76、测试](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.76.md)
+  * [76、如何写好测试](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.76.md)
+  * [77、iOS Crash分析](https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.77.md)
   
 * [第二部分 Web前端](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/chapter2.md)
   * [1、-last-child与-last-of-type你只是会用，有研究过区别吗？](https://github.com/FantasticLBP/knowledge-kit/blob/master/第二部分%20Web%20前端/2.1.md)
