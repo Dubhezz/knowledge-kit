@@ -17,3 +17,4 @@
   * [13、面试技巧](https://github.com/FantasticLBP/knowledge-kit/blob/master/第六部分%20开发杂谈/6.14.md)
   * [14、Markdown的妙用](https://github.com/FantasticLBP/knowledge-kit/blob/master/第六部分%20开发杂谈/6.15.md)
   * [15、1995年的资深工程师，和你谈谈如何进阶](https://github.com/FantasticLBP/knowledge-kit/blob/master/第六部分%20开发杂谈/6.16.md)
+  * [16、区块链技术和比特币](https://github.com/FantasticLBP/knowledge-kit/blob/master/第六部分%20开发杂谈/6.17.md)
