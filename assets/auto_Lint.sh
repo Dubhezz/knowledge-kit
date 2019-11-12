@@ -23,7 +23,7 @@ function oclintForProject () {
         echo 'oclint exist'
     else
         echo '😠 完蛋了你，玩 oclint 却不安装吗，你要闹哪样 😠'
-        echo '😠 乖乖按照博文：https://github.com/FantasticLBP/knowledge-kit/blob/master/第一部分%20iOS/1.63.md 安装所需环境 😠'
+        echo '😠 乖乖按照博文：https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.63.md 安装所需环境 😠'
     fi
     if which xcpretty 2>/dev/null; then
         echo 'xcpretty exist'
