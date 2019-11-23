@@ -80,7 +80,8 @@
   * [75、APM](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.75.md)  
   * [76、如何写好测试](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.76.md)
   * [77、iOS Crash分析](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.77.md)
-  
+  * [78、打包构建加速](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.78.md)
+
 * [Chapter2 - Web FrontEnd](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/chapter2.md)
   * [1、-last-child与-last-of-type你只是会用，有研究过区别吗？](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.1.md)
   * [2、正则表达式](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.2.md)
@@ -123,6 +124,7 @@
   * [2、网页端扫码登录实现原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/3.2.md)
   * [3、从Node.js看看服务端框架的感想](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/3.3.md)
   * [4、免费的配置HTTPS证书](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/3.4.md)
+  * [5、PHP、Mysql 中文乱码](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/3.5.md)
 
 
 * [Chapter4 - DataBase](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter4%20-%20DataBase/chapter4.md)
