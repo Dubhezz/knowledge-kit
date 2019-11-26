@@ -158,7 +158,9 @@
   * [15、1995年的资深工程师，和你谈谈如何进阶](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.16.md)
   * [16、区块链技术和比特币](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.17.md)
   * [17、如何写一份夺目的简历](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.18.md)
-  * [18、一套开发规范](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.19.md)
+  * [18、一套开发规范](https://github.com/FantasticLBP/knowledge-kit/blob/master/
+  * Chapter7%20-%20Geek%20Talk/7.19.md)
+  * [19、云服务器靠谱推荐](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.20.md)
 
 
 
