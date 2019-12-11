@@ -37,4 +37,5 @@
   * [33、ES6学习总结](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.33.md)
   * [34、富文本编辑器的原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.34.md)
   * [35、Vue3 核心技术](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.35.md)
+  * [36、immutable.js 与 React](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.36.md)
 
