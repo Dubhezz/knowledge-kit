@@ -129,6 +129,7 @@
   * [4、免费的配置HTTPS证书](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/3.4.md)
   * [5、PHP、Mysql 中文乱码](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/3.5.md)
   * [6、YAML](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/3.6.md)
+  * [7、Node单元测试](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/3.7.md)
 
 
 * [Chapter4 - DataBase](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter4%20-%20DataBase/chapter4.md)
