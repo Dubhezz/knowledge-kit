@@ -38,4 +38,7 @@
   * [34、富文本编辑器的原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.34.md)
   * [35、Vue3 核心技术](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.35.md)
   * [36、immutable.js 与 React](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.36.md)
+  * [37、前端工程化与 CI、CD](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.37.md)
+  * [38、npm 改进之工程化](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.38.md)
+  * [39、打一个通用 UMD 包](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.39.md)
 

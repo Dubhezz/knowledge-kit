@@ -121,6 +121,8 @@
   * [35、Vue3 核心技术](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.35.md)
   * [36、immutable.js 与 React](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.36.md)
   * [37、前端工程化与 CI、CD](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.37.md)
+  * [38、npm 改进之工程化](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.38.md)
+  * [39、打一个通用 UMD 包](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.39.md)
 
 * [Chapter3 - Server](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/chapter3.md)
   * [1、利用分页和模糊查询技术实现一个App接口](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/3.1.md)
